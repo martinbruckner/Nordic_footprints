@@ -1,0 +1,201 @@
+Index,Product.Name,Product.Code,Sector.Group,Food
+1,Paddy rice,p01.a,Agri,Agriculture
+2,Wheat,p01.b,Agri,Agriculture
+3,Cereal grains nec,p01.c,Agri,Agriculture
+4,"Vegetables, fruit, nuts",p01.d,Agri,Agriculture
+5,Oil seeds,p01.e,Agri,Agriculture
+6,"Sugar cane, sugar beet",p01.f,Agri,Agriculture
+7,Plant-based fibers,p01.g,Agri,Non-Food
+8,Crops nec,p01.h,Agri,Agriculture
+9,Cattle,p01.i,Agri,Agriculture
+10,Pigs,p01.j,Agri,Agriculture
+11,Poultry,p01.k,Agri,Agriculture
+12,Meat animals nec,p01.l,Agri,Agriculture
+13,Animal products nec,p01.m,Agri,Agriculture
+14,Raw milk,p01.n,Agri,Agriculture
+15,"Wool, silk-worm cocoons",p01.o,Agri,Non-Food
+16,Manure (conventional treatment),p01.w.1,Agri,Non-Food
+17,Manure (biogas treatment),p01.w.2,Agri,Non-Food
+18,"Products of forestry, logging and related services",p02,Agri,Non-Food
+19,Fish and other fishing products; services incidental of fishing,p05,Agri,Agriculture
+20,Anthracite,p10.a,Mining,Non-Food
+21,Coking Coal,p10.b,Mining,Non-Food
+22,Other Bituminous Coal,p10.c,Mining,Non-Food
+23,Sub-Bituminous Coal,p10.d,Mining,Non-Food
+24,Patent Fuel,p10.e,Mining,Non-Food
+25,Lignite/Brown Coal,p10.f,Mining,Non-Food
+26,BKB/Peat Briquettes,p10.g,Mining,Non-Food
+27,Peat,p10.h,Mining,Non-Food
+28,"Crude petroleum and services related to crude oil extraction, excluding surveying",p11.a,Mining,Non-Food
+29,"Natural gas and services related to natural gas extraction, excluding surveying",p11.b,Mining,Non-Food
+30,Natural Gas Liquids,p11.b.1,Mining,Non-Food
+31,Other Hydrocarbons,p11.c,Mining,Non-Food
+32,Uranium and thorium ores,p12,Mining,Non-Food
+33,Iron ores,p13.1,Mining,Non-Food
+34,Copper ores and concentrates,p13.20.11,Mining,Non-Food
+35,Nickel ores and concentrates,p13.20.12,Mining,Non-Food
+36,Aluminium ores and concentrates,p13.20.13,Mining,Non-Food
+37,Precious metal ores and concentrates,p13.20.14,Mining,Non-Food
+38,"Lead, zinc and tin ores and concentrates",p13.20.15,Mining,Non-Food
+39,Other non-ferrous metal ores and concentrates,p13.20.16,Mining,Non-Food
+40,Stone,p14.1,Mining,Non-Food
+41,Sand and clay,p14.2,Mining,Non-Food
+42,"Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.",p14.3,Mining,Non-Food
+43,Products of meat cattle,p15.a,M_bio_products,Food products
+44,Products of meat pigs,p15.b,M_bio_products,Food products
+45,Products of meat poultry,p15.c,M_bio_products,Food products
+46,Meat products nec,p15.d,M_bio_products,Food products
+47,products of Vegetable oils and fats,p15.e,M_bio_products,Food products
+48,Dairy products,p15.f,M_bio_products,Food products
+49,Processed rice,p15.g,M_bio_products,Food products
+50,Sugar,p15.h,M_bio_products,Food products
+51,Food products nec,p15.i,M_bio_products,Food products
+52,Beverages,p15.j,M_bio_products,Food products
+53,Fish products,p15.k,M_bio_products,Food products
+54,Tobacco products,p16,M_bio_products,Non-Food
+55,Textiles,p17,M_bio_products,Non-Food
+56,Wearing apparel; furs,p18,M_bio_products,Non-Food
+57,Leather and leather products,p19,M_bio_products,Non-Food
+58,Wood and products of wood and cork (except furniture); articles of straw and plaiting materials,p20,M_bio_products,Non-Food
+59,"Wood material for treatment, Re-processing of secondary wood material into new wood material",p20.w,M_bio_products,Non-Food
+60,Pulp,p21.1,M_bio_products,Non-Food
+61,"Secondary paper for treatment, Re-processing of secondary paper into new pulp",p21.w.1,M_bio_products,Non-Food
+62,Paper and paper products,p21.2,M_bio_products,Non-Food
+63,Printed matter and recorded media,p22,M_bio_products,Non-Food
+64,Coke Oven Coke,p23.1.a,M_fossil_products,Non-Food
+65,Gas Coke,p23.1.b,M_fossil_products,Non-Food
+66,Coal Tar,p23.1.c,M_fossil_products,Non-Food
+67,Motor Gasoline,p23.20.a,M_fossil_products,Non-Food
+68,Aviation Gasoline,p23.20.b,M_fossil_products,Non-Food
+69,Gasoline Type Jet Fuel,p23.20.c,M_fossil_products,Non-Food
+70,Kerosene Type Jet Fuel,p23.20.d,M_fossil_products,Non-Food
+71,Kerosene,p23.20.e,M_fossil_products,Non-Food
+72,Gas/Diesel Oil,p23.20.f,M_fossil_products,Non-Food
+73,Heavy Fuel Oil,p23.20.g,M_fossil_products,Non-Food
+74,Refinery Gas,p23.20.h,M_fossil_products,Non-Food
+75,Liquefied Petroleum Gases (LPG),p23.20.i,M_fossil_products,Non-Food
+76,Refinery Feedstocks,p23.20.j,M_fossil_products,Non-Food
+77,Ethane,p23.20.k,M_fossil_products,Non-Food
+78,Naphtha,p23.20.l,M_fossil_products,Non-Food
+79,White Spirit & SBP,p23.20.m,M_fossil_products,Non-Food
+80,Lubricants,p23.20.n,M_fossil_products,Non-Food
+81,Bitumen,p23.20.o,M_fossil_products,Non-Food
+82,Paraffin Waxes,p23.20.p,M_fossil_products,Non-Food
+83,Petroleum Coke,p23.20.q,M_fossil_products,Non-Food
+84,Non-specified Petroleum Products,p23.20.r,M_fossil_products,Non-Food
+85,Nuclear fuel,p23.3,M_fossil_products,Non-Food
+86,"Plastics, basic",p24.a,M_fossil_products,Non-Food
+87,"Secondary plastic for treatment, Re-processing of secondary plastic into new plastic",p24.a.w,M_fossil_products,Non-Food
+88,N-fertiliser,p24.b,M_fossil_products,Non-Food
+89,P- and other fertiliser,p24.c,M_fossil_products,Non-Food
+90,Chemicals nec,p24.d,M_fossil_products,Non-Food
+91,Charcoal,p24.e,M_fossil_products,Non-Food
+92,Additives/Blending Components,p24.f,M_fossil_products,Non-Food
+93,Biogasoline,p24.g,M_bio_products,Non-Food
+94,Biodiesels,p24.h,M_bio_products,Non-Food
+95,Other Liquid Biofuels,p24.i,M_bio_products,Non-Food
+96,Rubber and plastic products,p25,M_fossil_products,Non-Food
+97,Glass and glass products,p26.a,M_metal&mineral_products,Non-Food
+98,"Secondary glass for treatment, Re-processing of secondary glass into new glass",p26.w.1,M_metal&mineral_products,Non-Food
+99,Ceramic goods,p26.b,M_metal&mineral_products,Non-Food
+100,"Bricks, tiles and construction products, in baked clay",p26.c,M_metal&mineral_products,Non-Food
+101,"Cement, lime and plaster",p26.d,M_metal&mineral_products,Non-Food
+102,"Ash for treatment, Re-processing of ash into clinker",p26.d.w,M_metal&mineral_products,Non-Food
+103,Other non-metallic mineral products,p26.e,M_metal&mineral_products,Non-Food
+104,Basic iron and steel and of ferro-alloys and first products thereof,p27.a,M_metal&mineral_products,Non-Food
+105,"Secondary steel for treatment, Re-processing of secondary steel into new steel",p27.a.w,M_metal&mineral_products,Non-Food
+106,Precious metals,p27.41,M_metal&mineral_products,Non-Food
+107,"Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals",p27.41.w,M_metal&mineral_products,Non-Food
+108,Aluminium and aluminium products,p27.42,M_metal&mineral_products,Non-Food
+109,"Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium",p27.42.w,M_metal&mineral_products,Non-Food
+110,"Lead, zinc and tin and products thereof",p27.43,M_metal&mineral_products,Non-Food
+111,"Secondary lead for treatment, Re-processing of secondary lead into new lead",p27.43.w,M_metal&mineral_products,Non-Food
+112,Copper products,p27.44,M_metal&mineral_products,Non-Food
+113,"Secondary copper for treatment, Re-processing of secondary copper into new copper",p27.44.w,M_metal&mineral_products,Non-Food
+114,Other non-ferrous metal products,p27.45,M_metal&mineral_products,Non-Food
+115,"Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals",p27.45.w,M_metal&mineral_products,Non-Food
+116,Foundry work services,p27.5,M_metal&mineral_products,Non-Food
+117,"Fabricated metal products, except machinery and equipment",p28,M_metal&mineral_products,Non-Food
+118,Machinery and equipment n.e.c.,p29,M_metal&mineral_products,Non-Food
+119,Office machinery and computers,p30,M_metal&mineral_products,Non-Food
+120,Electrical machinery and apparatus n.e.c.,p31,M_metal&mineral_products,Non-Food
+121,"Radio, television and communication equipment and apparatus",p32,M_metal&mineral_products,Non-Food
+122,"Medical, precision and optical instruments, watches and clocks",p33,M_metal&mineral_products,Non-Food
+123,"Motor vehicles, trailers and semi-trailers",p34,M_metal&mineral_products,Non-Food
+124,Other transport equipment,p35,M_metal&mineral_products,Non-Food
+125,Furniture; other manufactured goods n.e.c.,p36,M_metal&mineral_products,Non-Food
+126,Secondary raw materials,p37,M_metal&mineral_products,Non-Food
+127,"Bottles for treatment, Recycling of bottles by direct reuse",p37.w.1,M_metal&mineral_products,Non-Food
+128,Electricity by coal,p40.11.a,Energy,Non-Food
+129,Electricity by gas,p40.11.b,Energy,Non-Food
+130,Electricity by nuclear,p40.11.c,Energy,Non-Food
+131,Electricity by hydro,p40.11.d,Energy,Non-Food
+132,Electricity by wind,p40.11.e,Energy,Non-Food
+133,Electricity by petroleum and other oil derivatives,p40.11.f,Energy,Non-Food
+134,Electricity by biomass and waste,p40.11.g,Energy,Non-Food
+135,Electricity by solar photovoltaic,p40.11.h,Energy,Non-Food
+136,Electricity by solar thermal,p40.11.i,Energy,Non-Food
+137,"Electricity by tide, wave, ocean",p40.11.j,Energy,Non-Food
+138,Electricity by Geothermal,p40.11.k,Energy,Non-Food
+139,Electricity nec,p40.11.l,Energy,Non-Food
+140,Transmission services of electricity,p40.12,Energy,Non-Food
+141,Distribution and trade services of electricity,p40.13,Energy,Non-Food
+142,Coke oven gas,p40.2.a,Energy,Non-Food
+143,Blast Furnace Gas,p40.2.b,Energy,Non-Food
+144,Oxygen Steel Furnace Gas,p40.2.c,Energy,Non-Food
+145,Gas Works Gas,p40.2.d,Energy,Non-Food
+146,Biogas,p40.2.e,Energy,Non-Food
+147,Distribution services of gaseous fuels through mains,p40.2.1,Energy,Non-Food
+148,Steam and hot water supply services,p40.3,Energy,Non-Food
+149,"Collected and purified water, distribution services of water",p41,Energy,Non-Food
+150,Construction work,p45,Construction,Non-Food
+151,"Secondary construction material for treatment, Re-processing of secondary construction material into aggregates",p45.w,Construction,Non-Food
+152,"Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries",p50.a,Sales&Retail,Non-Food
+153,Retail trade services of motor fuel,p50.b,Sales&Retail,Non-Food
+154,"Wholesale trade and commission trade services, except of motor vehicles and motorcycles",p51,Sales&Retail,Non-Food
+155,"Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods",p52,Sales&Retail,Non-Food
+156,Hotel and restaurant services,p55,Sales&Retail,Hotels and restaurants
+157,Railway transportation services,p60.1,Transport,Non-Food
+158,Other land transportation services,p60.2,Transport,Non-Food
+159,Transportation services via pipelines,p60.3,Transport,Non-Food
+160,Sea and coastal water transportation services,p61.1,Transport,Non-Food
+161,Inland water transportation services,p61.2,Transport,Non-Food
+162,Air transport services,p62,Transport,Non-Food
+163,Supporting and auxiliary transport services; travel agency services,p63,Transport,Non-Food
+164,Post and telecommunication services,p64,Transport,Non-Food
+165,"Financial intermediation services, except insurance and pension funding services",p65,Financial,Non-Food
+166,"Insurance and pension funding services, except compulsory social security services",p66,Financial,Non-Food
+167,Services auxiliary to financial intermediation,p67,Financial,Non-Food
+168,Real estate services,p70,Financial,Non-Food
+169,Renting services of machinery and equipment without operator and of personal and household goods,p71,Financial,Non-Food
+170,Computer and related services,p72,Financial,Non-Food
+171,Research and development services,p73,Financial,Non-Food
+172,Other business services,p74,Financial,Non-Food
+173,Public administration and defence services; compulsory social security services,p75,Other,Non-Food
+174,Education services,p80,Other,Education and health
+175,Health and social work services,p85,Other,Education and health
+176,Food waste for treatment: incineration,p90.1.a,Other,Food waste
+177,Paper waste for treatment: incineration,p90.1.b,Other,Non-Food
+178,Plastic waste for treatment: incineration,p90.1.c,Other,Non-Food
+179,Intert/metal waste for treatment: incineration,p90.1.d,Other,Non-Food
+180,Textiles waste for treatment: incineration,p90.1.e,Other,Non-Food
+181,Wood waste for treatment: incineration,p90.1.f,Other,Non-Food
+182,Oil/hazardous waste for treatment: incineration,p90.1.g,Other,Non-Food
+183,Food waste for treatment: biogasification and land application,p90.2.a,Other,Food waste
+184,Paper waste for treatment: biogasification and land application,p90.2.b,Other,Non-Food
+185,Sewage sludge for treatment: biogasification and land application,p90.2.c,Other,Non-Food
+186,Food waste for treatment: composting and land application,p90.3.a,Other,Food waste
+187,Paper and wood waste for treatment: composting and land application,p90.3.b,Other,Non-Food
+188,Food waste for treatment: waste water treatment,p90.4.a,Other,Food waste
+189,Other waste for treatment: waste water treatment,p90.4.b,Other,Non-Food
+190,Food waste for treatment: landfill,p90.5.a,Other,Food waste
+191,Paper for treatment: landfill,p90.5.b,Other,Non-Food
+192,Plastic waste for treatment: landfill,p90.5.c,Other,Non-Food
+193,Inert/metal/hazardous waste for treatment: landfill,p90.5.d,Other,Non-Food
+194,Textiles waste for treatment: landfill,p90.5.e,Other,Non-Food
+195,Wood waste for treatment: landfill,p90.5.f,Other,Non-Food
+196,Membership organisation services n.e.c.,p91,Other,Non-Food
+197,"Recreational, cultural and sporting services",p92,Other,Non-Food
+198,Other services,p93,Other,Non-Food
+199,Private households with employed persons,p95,Other,Non-Food
+200,Extra-territorial organizations and bodies,p99,Other,Non-Food
